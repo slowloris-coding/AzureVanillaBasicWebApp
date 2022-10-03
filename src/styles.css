@@ -15,6 +15,9 @@ html, body {
 }
 
 #time {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 75%;
   height: 50%;
   font-size: 50pt;
